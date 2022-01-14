@@ -9,9 +9,9 @@
 ## Содержание
 - [`GAN.ipynb`](https://github.com/ivantipow/GAN/blob/main/GAN.ipynb) - блокнот, в котором на PyTorch'е имплеминтируем GAN и обучаем его генерировать лица людей. Строим leave-one-out оценку качества работы на основе 1NN Classifier. А также сравниваем распределения настоящих и сгенерированных изображений, используя t-SNE.
 
-- [`evolution_compress.gif`](https://github.com/ivantipow/GAN/blob/main/evolution_compress.gif) - анимация, которая показывает, как менялись генерируемые GAN'ом изображения при его обучении на 1251 эпохе.
+- [`evolution_compress.gif`](https://github.com/ivantipow/GAN/blob/main/evolution_compress.gif) - анимация, которая показывает, как менялись генерируемые GAN'ом изображения при его обучении на 1000 эпохах.
 
-- [`evolution_v0_compress.gif`](https://github.com/ivantipow/GAN/blob/main/evolution_v0_compress.gif) - аналогично для 1000 эпох.
+- [`evolution_v0_compress.gif`](https://github.com/ivantipow/GAN/blob/main/evolution_v0_compress.gif) - аналогично для 1251 эпохи.
 
 - [`GAN_architecture.png`](https://github.com/ivantipow/GAN/blob/main/GAN_architecture.png) - схематический рисунок, описывающий работу GAN'а.
 
